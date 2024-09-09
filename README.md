@@ -38,4 +38,3 @@
           System.out.println("Hello, GitHub Codespaces!");
       }
   }
-</div>
