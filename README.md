@@ -14,7 +14,7 @@ Bem-vindos ao Repositório [IFSC-Codespace-ENG-ADS-JAVA-POO](https://github.com/
 
 ## Sobre o Repositório
 
-Este repositório contém exemplos e projetos desenvolvidos em Java como parte do curso de Análise e Desenvolvimento de Sistemas no IFSC.
+Este repositório contém exemplos e projetos desenvolvidos em Java como parte dos cursos Engenharia de Telecomunicações e Análise e Desenvolvimento de Sistemas no IFSC.
 
 ## Configuração do Ambiente de Desenvolvimento
 
