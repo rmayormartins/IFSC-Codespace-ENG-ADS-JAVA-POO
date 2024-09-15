@@ -1,12 +1,20 @@
+<table align="center" border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border: 1px solid black;">
+  <tr>
+    <td style="border: 1px solid black; padding: 5px;">
+      <p style="text-align: center;">Bem vindos ao Repositório</p>
+      <p style="text-align: center;">IFSC-Codespace-ENG-C-PRG1</p>
+      <p style="text-align: center;"><a href="https://rmayormartins.github.io/" target="_blank">Prof. Ramon Mayor Martins</a></p>
+    </td>
+  </tr>
+</table>
+
 # IFSC-Codespace-ENG-ADS-JAVA-POO
 
-Bem-vindos ao Repositório [IFSC-Codespace-ENG-ADS-JAVA-POO](https://rmayormartins.github.io/)
-
-Repositório para exemplos e projetos em Java utilizando o GitHub Codespaces.
+Bem-vindos ao Repositório [IFSC-Codespace-ENG-ADS-JAVA-POO](https://github.com/rmayormartins/IFSC-Codespace-ENG-ADS-JAVA-POO)
 
 ## Sobre o Repositório
 
-Este repositório contém exemplos e projetos desenvolvidos em Java como parte do curso de Análise e Desenvolvimento de Sistemas no IFSC. Ele é projetado para ser usado com o GitHub Codespaces, proporcionando um ambiente de desenvolvimento consistente e fácil de configurar.
+Este repositório contém exemplos e projetos desenvolvidos em Java como parte do curso de Análise e Desenvolvimento de Sistemas no IFSC.
 
 ## Configuração do Ambiente de Desenvolvimento
 
@@ -42,10 +50,8 @@ public class HelloWorld {
 ```
 
 - Para compilar e executar o programa, você tem duas opções:
-
-1. Use o botão "Run" (▶️) no Codespace para compilar e executar diretamente.
-
-2. Ou use os seguintes comandos no terminal:
+- Use o botão "Run" (▶️) no Codespace para compilar e executar diretamente.
+- Ou use os seguintes comandos no terminal:
 
 ```bash
 javac HelloWorld.java
@@ -54,21 +60,21 @@ java HelloWorld
 
 ## Estrutura do Repositório
 
-- `/src`: Contém os arquivos fonte (.java) dos projetos e exemplos.
-- `/lib`: Bibliotecas e dependências externas.
-- `/docs`: Documentação adicional e recursos.
+- Contém os arquivos fonte (.java) dos projetos e exemplos.
 
 ## Contribuindo
 
 Sinta-se à vontade para contribuir com este repositório! Você pode:
 
-1. Abrir issues para reportar problemas ou sugerir melhorias.
-2. Submeter pull requests com novos exemplos ou correções.
-3. Melhorar a documentação existente.
+- Abrir ```issues``` para reportar problemas ou sugerir melhorias.
+- Submeter ```pull requests``` com novos exemplos ou correções.
+- Melhorar a documentação existente.
+- Ou entrar em contato ```ramon.mayor at: ifsc.edu.br```
 
 ## Recursos Adicionais
 
-- [Documentação do Java](https://docs.oracle.com/en/java/)
+- [Documentação Oracle Java](https://dev.java/learn/)
+- [Documentação Oracle Java Language Specification](https://docs.oracle.com/javase/specs/jls/se22/jls22.pdf)
 - [GitHub Codespaces Documentation](https://docs.github.com/en/codespaces)
 - [IFSC - Instituto Federal de Santa Catarina](https://www.ifsc.edu.br/)
 
