@@ -1,4 +1,4 @@
-public class A1ExemploTiposPrimitivosEString {
+public class A1_XExemploTiposPrimitivosEString {
     public static void main(String[] args) {
         // Tipos primitivos
         int numeroInteiro = 1000;
