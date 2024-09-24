@@ -7,6 +7,6 @@ public class D2WhileLoop {
             i++;
         }
         
-        System.out.println("pronto! fim de loop");
+        System.out.println(pronto! fim de loop");
     }
 }
