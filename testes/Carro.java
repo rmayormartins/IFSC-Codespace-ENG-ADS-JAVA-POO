@@ -1,7 +1,10 @@
 public class Carro {
+    String marca;
     public static void main(String[] args) {
         Carro meriva = new Carro();
-        System.out.println("Seu carro é um: " + meriva);
+
+        meriva.marca = "meriva";
+        System.out.println("Seu carro é um: " + meriva.marca);
     }
 }
 
