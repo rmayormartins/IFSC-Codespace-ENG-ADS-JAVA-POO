@@ -15,8 +15,8 @@ public class PecaLego{
 
         System.out.println
         ("Minha peça lego tem " + minhapeca.NumeroDePinos + " Pinos\n" +
-         "Minha peça lego tem " + minhapeca.largura + " de largura\n" +
-         "Minha segunda peça lego tem" + minhapeca_2.NumeroDePinos + "pinos\n" + 
-         "Minha segunda peça lego tem" + minhapeca_2.largura + " de largura");
+         "Minha peça lego tem " + minhapeca.largura + " cm de largura\n" +
+         "Minha segunda peça lego tem " + minhapeca_2.NumeroDePinos + " pinos\n" + 
+         "Minha segunda peça lego tem " + minhapeca_2.largura + " de largura");
     }
 }
