@@ -10,5 +10,4 @@ public class B1_6Teste {
         System.out.println("Maiúsculo: " + Character.toLowerCase(letra2));
 
     }
-
 }
