@@ -1,11 +1,10 @@
 import java.util.Arrays;
 
-
 public class F1_7Array {
     public static void main(String[] args) {
         // Criando arrays para demonstração
         int[] numeros = {5, 2, 8, 1, 9, 3, 7, 4, 6};
-        int[] numeros2 = {3, 2, 8, 1, 1, 2, 7, 4, 5};
+        int[] numeros2 = {1, 3, 2, 4, 6, 5, 7, 8, 9};
         String[] frutas = {"maçã", "banana", "laranja", "uva", "pera"};
         int[] numerosCopiados = new int[5];
 
@@ -13,6 +12,7 @@ public class F1_7Array {
         //Ordenação
         System.out.println("Ordenação:");
         Arrays.sort(numeros);
+        Arrays.sort(numeros2);
         System.out.println("Array ordenado: " + Arrays.toString(numeros));
 
 
