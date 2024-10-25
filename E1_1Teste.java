@@ -1,8 +1,8 @@
 //CÓDIGO E1_1 - Operadores aritméticos em Java:
 public class E1_1Teste {
     public static void main(String[] args) {
-        int a = 21;
-        int b = 10;
+        int a = 12;
+        int b = 5;
         int c;
         
         c = a + b; // soma

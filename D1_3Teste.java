@@ -5,7 +5,7 @@ public class D1_3Teste {
         do {
             System.out.println("valor de a: " + a);
             a = a + 1;
-        } while (a < 20);
+        } while (a <= 20);
     }
  }
 
