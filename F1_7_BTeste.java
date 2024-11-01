@@ -18,7 +18,7 @@ public class F1_7_BTeste {
 
         // 8. Preenchimento de parte do array
         System.out.println("\n8. Preenchimento de parte do array:");
-        Arrays.fill(numeros, 2, 5, 0);
+        Arrays.;
         System.out.println("Array com parte preenchida: " + Arrays.toString(numeros));
 
         // 9. Exibição de array multidimensional

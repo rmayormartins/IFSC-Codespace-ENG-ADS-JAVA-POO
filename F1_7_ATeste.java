@@ -8,8 +8,8 @@ public class F1_7_ATeste {
 
         // 1. Ordenação //chama o método para ordenar e depois usa para converter tudo em string
         System.out.println("1. Ordenação:");
-        Arrays.sort(numeros);
-        System.out.println("Array ordenado: " + Arrays.;
+        Arrays.;
+        System.out.println("Array ordenado: " + Arrays.toString(numeros));
 
         // 2. Busca binária (requer array ordenado) //Aponta qual é o indice do numero 7
         System.out.println("\n2. Busca binária:");
