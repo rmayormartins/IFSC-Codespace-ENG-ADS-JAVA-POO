@@ -62,6 +62,13 @@ java HelloWorld
 
 - Contém os arquivos fonte (.java) dos projetos e exemplos.
 
+## Cheat sheet de git no terminal
+
+- ```git add .``` ou ```git add file.java```
+- ```git status```
+- ```git commit -m "add versao x"```
+- ```git push -u origin main```
+
 ## Contribuindo
 
 Sinta-se à vontade para contribuir com este repositório! Você pode:
