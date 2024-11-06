@@ -2,7 +2,7 @@ public class G1_6Teste {
     public static void main(String[] args) {
         String str1 = "Abc";
         String str2 = "abe";
-        int retorno = str1.compareToIgnoreCase(str2);
+        int retorno = str1.compareTo(str2);
         System.out.println("retorno = " + retorno);
        
         // Explicação dos possíveis valores de retorno:

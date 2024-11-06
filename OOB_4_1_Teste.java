@@ -1,19 +1,17 @@
 public class OOB_4_1_Teste {
-
-    // Atributo estático (variável de classe)
-    static int variavelEstatica = 10;
+    // Variável de classe (global) com acesso público
+    public static int variavel = 50;
 
     public static void exemploLocal() {
-        // Pode acessar a variável estática diretamente
-        System.out.println("Variável estática: " + variavelEstatica);
+        //variavel de classe (local) com acesso publico tambem
+        int variavel = 10;
+        System.out.println("Variável local: " + variavel);
+        System.out.println("Variável global: " + OOB_4_1_Teste.variavel);
     }
 
     public static void main(String[] args) {
-        // Não é necessário criar um objeto para acessar a variável estática
         exemploLocal();
-        
-        // Acessando a variável
-        System.out.println("Acessando variável estática diretamente: " + variavelEstatica);
     }
 }
+
 
