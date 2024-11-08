@@ -5,6 +5,7 @@ public class OOB_12_Teste {
             System.out.println("Resultado: " + resultado);
         } catch (ArithmeticException e) {
             System.out.println("Erro: divisão por zero não é permitida.");
+            System.out.println("Erro: " + e.getMessage());
         }
     }
 
