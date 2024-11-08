@@ -1,6 +1,6 @@
-public class OOB_11_Teste {
+public class OOB_11_Teste { //metodo de numero variavel de argumentos
         public static void imprimirNumeros(int... numeros) {
-            for (int numero : numeros) {
+            for (int numero : numeros) { //enhanced for loop ou for-each loop (laço aprimorado ou laço para cada)
                 System.out.println("Número: " + numero);
             }
         }

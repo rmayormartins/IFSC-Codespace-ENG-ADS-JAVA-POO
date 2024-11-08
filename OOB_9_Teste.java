@@ -1,4 +1,4 @@
-//metodo nao estatico, metodo de instancia
+//metodo nao estatico (metodo de instancia)
 public class OOB_9_Teste {
 
     // Método não estático (não estático por padrão)
