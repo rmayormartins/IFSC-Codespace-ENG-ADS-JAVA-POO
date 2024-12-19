@@ -57,6 +57,11 @@ public class HelloWorld {
 javac HelloWorld.java
 java HelloWorld
 ```
+ou (quando várias classes em arquivos distintos)
+```bash
+javac *.java
+java HelloWorld
+```
 
 ## Estrutura do Repositório
 
