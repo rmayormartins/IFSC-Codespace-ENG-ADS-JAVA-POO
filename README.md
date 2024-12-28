@@ -14,7 +14,7 @@ Bem-vindos ao Repositório [IFSC-Codespace-ENG-ADS-JAVA-POO](https://github.com/
 
 ## Sobre o Repositório
 
-Este repositório contém exemplos e projetos desenvolvidos em Java como parte dos cursos Engenharia de Telecomunicações e Análise e Desenvolvimento de Sistemas no IFSC.
+Este repositório contém exemplos e projetos desenvolvidos em Java como parte dos cursos Engenharia de Telecomunicações e Análise e Desenvolvimento de Sistemas no [IFSC - Instituto Federal de Santa Catarina](https://www.ifsc.edu.br/).
 
 ## Configuração do Ambiente de Desenvolvimento
 
@@ -87,7 +87,7 @@ Sinta-se à vontade para contribuir com este repositório! Você pode:
 
 - [Documentação Oracle Java](https://dev.java/learn/)
 - [Documentação Oracle Java Language Specification](https://docs.oracle.com/javase/specs/jls/se22/jls22.pdf)
+- [Java Cheat Sheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
 - [GitHub Codespaces Documentation](https://docs.github.com/en/codespaces)
-- [IFSC - Instituto Federal de Santa Catarina](https://www.ifsc.edu.br/)
 
 ---
