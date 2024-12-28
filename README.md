@@ -16,6 +16,11 @@ Bem-vindos ao Repositório [IFSC-Codespace-ENG-ADS-JAVA-POO](https://github.com/
 
 Este repositório contém exemplos e projetos desenvolvidos em Java como parte dos cursos Engenharia de Telecomunicações e Análise e Desenvolvimento de Sistemas no [IFSC - Instituto Federal de Santa Catarina](https://www.ifsc.edu.br/).
 
+## Tech Stack
+
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+
 ## Configuração do Ambiente de Desenvolvimento
 
 Para começar a trabalhar neste projeto, siga os passos abaixo:
