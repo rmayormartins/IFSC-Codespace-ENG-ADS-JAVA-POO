@@ -3,7 +3,7 @@
     <td style="border: 1px solid black; padding: 5px;">
       <p style="text-align: center;">Bem vindos ao Repositório</p>
       <p style="text-align: center;">IFSC-Codespace-ENG-ADS-JAVA-POO</p>
-      <p style="text-align: center;"><a href="https://rmayormartins.github.io/" target="_blank">Prof. Ramon Mayor Martins</a></p>
+      <p style="text-align: center;"><a href="https://rmayormartins.github.io/" target="_blank">Prof. Ramon Mayor Martins, Dr.</a></p>
     </td>
   </tr>
 </table>
@@ -94,6 +94,15 @@ java HelloWorld
 
 ---
 
+#### Recursos Adicionais
+
+- [Documentação Oracle Java](https://dev.java/learn/)
+- [Documentação Oracle Java Language Specification](https://docs.oracle.com/javase/specs/jls/se22/jls22.pdf)
+- [Java Cheat Sheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
+- [GitHub Codespaces Documentation](https://docs.github.com/en/codespaces)
+
+---
+
 #### Contribuindo
 
 Sinta-se à vontade para contribuir com este repositório! Você pode:
@@ -125,11 +134,4 @@ Este repositório e seus projetos estão sob licença específica. Consulte cada
 
 </div>
 
-#### Recursos Adicionais
 
-- [Documentação Oracle Java](https://dev.java/learn/)
-- [Documentação Oracle Java Language Specification](https://docs.oracle.com/javase/specs/jls/se22/jls22.pdf)
-- [Java Cheat Sheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
-- [GitHub Codespaces Documentation](https://docs.github.com/en/codespaces)
-
----
