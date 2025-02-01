@@ -3,7 +3,7 @@
     <td style="border: 1px solid black; padding: 5px;">
       <p style="text-align: center;">Bem vindos ao Repositório</p>
       <p style="text-align: center;">IFSC-Codespace-ENG-ADS-JAVA-POO</p>
-      <p style="text-align: center;"><a href="https://rmayormartins.github.io/" target="_blank">Prof. Ramon Mayor Martins, Dr.</a></p>
+      <p style="text-align: center;"><a href="https://rmayormartins.github.io/" target="_blank">Prof. Dr. Ramon Mayor Martins</a></p>
     </td>
   </tr>
 </table>
