@@ -3,5 +3,3 @@ public class A0_HelloWorld {
         System.out.println("Hello World!");
     }
 }
-
-
