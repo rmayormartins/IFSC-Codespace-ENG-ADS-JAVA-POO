@@ -76,7 +76,31 @@ ou (quando várias classes em arquivos distintos)
 javac *.java
 java HelloWorld
 ```
+---
+#### Ajuste caso necessário
 
+- Atualizar os pacotes
+```bash
+sudo apt update
+```
+
+- Instalar OpenJDK 17 (versão LTS recomendada)
+```bash
+sudo apt install openjdk-17-jdk -y
+```
+
+- Verificar se foi instalado corretamente
+```bash
+java -version
+```
+```bash
+javac -version
+```
+
+#depois
+```bash
+echo $JAVA_HOME
+```
 ---
 
 #### Estrutura do Repositório
